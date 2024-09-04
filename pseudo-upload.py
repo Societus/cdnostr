@@ -15,7 +15,7 @@
   ]
 }
 
-Implementation example - public self-encrypted event:
+# Implementation example - public self-encrypted event:
 
 import base64
 import hashlib
